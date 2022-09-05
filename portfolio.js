@@ -92,7 +92,6 @@ export const skillsSection = {
         ),
       ],
       softwareSkills: [
-        // ? Check README To get icon details
         {
           skillName: "AWS",
           fontAwesomeClassname: "logos:aws",
@@ -158,6 +157,18 @@ export const skillsSection = {
           fontAwesomeClassname: "logos:bash-icon",
         },
       ],
+    },
+    {
+      title: "Management",
+      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      skills: [
+        emoji(
+          "⚡ I have experience in agile methodologies from being a scrum master and a project lead in numerous different groups"
+        ),
+        emoji("⚡ Time management and organisation are my strong suit"),
+        emoji("⚡ I can adapt and integrate a team quickly"),
+      ],
+      softwareSkills: [],
     },
   ],
 }
