@@ -160,7 +160,7 @@ export const skillsSection = {
     },
     {
       title: "Management",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "/lottie/skills/agile.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ I have experience in agile methodologies from being a scrum master and a project lead in numerous different groups"
@@ -168,7 +168,20 @@ export const skillsSection = {
         emoji("⚡ Time management and organisation are my strong suit"),
         emoji("⚡ I can adapt and integrate a team quickly"),
       ],
-      softwareSkills: [],
+      softwareSkills: [
+        {
+          skillName: "Teams",
+          fontAwesomeClassname: "logos:microsoft-teams",
+        },
+        {
+          skillName: "Notion",
+          fontAwesomeClassname: "cib:notion",
+        },
+        {
+          skillName: "Jira",
+          fontAwesomeClassname: "logos:jira",
+        },
+      ],
     },
   ],
 }
