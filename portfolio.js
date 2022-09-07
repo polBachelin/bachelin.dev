@@ -6,7 +6,7 @@ export const greetings = {
   description:
     "I am passionate about full-stack development. I have experience in multiple web development projects; I am capable of bringing a project from start to finish with complicated technologies.\nI can also work on projects with low-level services\nWith my experience in leadership and education in my school I am able to lead a development team on a project.",
   resumeLink:
-    "https://drive.google.com/file/d/1WD21Y1fzGmdKY6R8lrK01X4YH9RBUxOa/view?usp=sharing",
+    "https://drive.google.com/file/d/1hdNw640O53nNXTH0kGSpcnCp_TOQ2x-z/view?usp=sharing",
 }
 
 export const openSource = {
@@ -274,7 +274,7 @@ export const feedbacks = [
   {
     name: "Killian Vallette - Swity",
     feedback:
-      "Pol's profesionalism in saying what he does and doing what he says, combined with a technical competencew that I have rarely seen, demonstrates a more than adequate potentail as a developer. I would recommand him for any assignment he might be asked to do.",
+      "Pol's profesionalism in saying what he does and doing what he says, combined with a technical competence that I have rarely seen, demonstrates a more than adequate potential as a developer. I would recommand him for any assignment he might be asked to do.",
   },
 ]
 
@@ -285,7 +285,7 @@ export const seoData = {
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Pol Bachelin",
   image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://polBachelin.github.io/bachelin.dev",
   keywords: [
     "Pol",
     "Pol Bachelin",
