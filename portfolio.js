@@ -28,7 +28,7 @@ export const skillsSection = {
   data: [
     {
       title: "Full Stack Development",
-      lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "./lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
@@ -81,7 +81,7 @@ export const skillsSection = {
     },
     {
       title: "Cloud Infra-Architecture",
-      lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "./lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
       skills: [
         emoji("⚡ Experience of working on multiple cloud platforms"),
         emoji(
@@ -120,7 +120,7 @@ export const skillsSection = {
     },
     {
       title: "Cybersecurity",
-      lottieAnimationFile: "/lottie/skills/cybersecurity.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "./lottie/skills/cybersecurity.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ Experience in pentesting using Kali Linux and tools like nmap, metasploit, sqlmap"
@@ -160,7 +160,7 @@ export const skillsSection = {
     },
     {
       title: "Management",
-      lottieAnimationFile: "/lottie/skills/agile.json", // Path of Lottie Animation JSON File
+      lottieAnimationFile: "./lottie/skills/agile.json", // Path of Lottie Animation JSON File
       skills: [
         emoji(
           "⚡ I have experience in agile methodologies from being a scrum master and a project lead in numerous different groups"
@@ -216,14 +216,14 @@ export const experience = [
   {
     role: "Web Developer",
     company: "TBSCG",
-    companylogo: "/img/icons/common/tbscg_icon_logo.jpg",
+    companylogo: "./img/icons/common/tbscg_icon_logo.jpg",
     date: "Apr 2022 – Sept 2022",
     desc: "I worked as a web developer on different CMS projects. Working in the cloud with AWS and mostly on the CMS Magnolia in Java.",
   },
   {
     role: "Java Developer",
     company: "Beetween",
-    companylogo: "/img/icons/common/beetween_logo.jpeg",
+    companylogo: "./img/icons/common/beetween_logo.jpeg",
     date: "Jul 2020 – Dec 2020",
     desc: "I was a member of Beetween's multiposting team. I integrated the Facebook and Twitter APIs to automate the creation of social media posts for their clients. I had the task of developing a new module for their Resume parser using the OpenCV library",
     // descBullets: [
@@ -234,7 +234,7 @@ export const experience = [
   {
     role: "Pedagogy Assistant",
     company: "EPITECH - European Institute of Technology",
-    companylogo: "/img/icons/common/epitechlogo.webp",
+    companylogo: "./img/icons/common/epitechlogo.webp",
     date: "Feb 2021 - Apr 2022",
     desc: "I integrated the pedagogy team of EPITECH. My tasks were to help students with their projects. To correct their assignments as well as carry out the project presentations. During this time I worked with a team of 6 other students, while balancing my studies.",
   },
