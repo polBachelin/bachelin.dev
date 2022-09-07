@@ -1,6 +1,6 @@
 import React from "react";
+import { Col, Container, Progress, Row } from "reactstrap";
 import { SkillBars } from "../portfolio";
-import { Container, Row, Progress, Col } from "reactstrap";
 
 import { Fade } from "react-reveal";
 
@@ -37,7 +37,7 @@ const Proficiency = () => {
 						})}
 					</Col>
 					<Col lg="6">
-						<GreetingLottie animationPath="/lottie/build.json" />
+						<GreetingLottie animationPath="./lottie/build.json" />
 					</Col>
 				</Row>
 			</Fade>

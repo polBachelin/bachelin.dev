@@ -241,7 +241,7 @@ export const experience = [
   {
     role: "Co-Founder | Scrum Master | Fullstack developer",
     company: "Nuage Malin",
-    companylogo: "/img/icons/common/NuageMalin_logo4.png",
+    companylogo: "./img/icons/common/NuageMalin_logo4.png",
     date: "Oct 2021 - May 2021",
     desc: "Nuage Malin is a green cloud solution that helps businesses archive their data while taking care of the environment. The project is ongoing",
   },
@@ -284,7 +284,7 @@ export const seoData = {
   description:
     "A passionate Full Stack Web Developer and Blockchain Developer.",
   author: "Pol Bachelin",
-  image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+  image: "https://avatars.githubusercontent.com/u/40643503?v=4",
   url: "https://polBachelin.github.io/bachelin.dev",
   keywords: [
     "Pol",
